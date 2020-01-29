@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-the-one-where-we-build-an-API-assignment-1-master",
+  "version": "1.0.0",
+  "description": "## Instruktioner",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Fredrik Berntsson",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "lowdb": "^1.0.0",
+    "uuid": "^3.4.0"
+  }
+}
